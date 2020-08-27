@@ -1,5 +1,5 @@
 {
- "name"         : "[COLOR Crimson]SkyNet[/COLOR]",
+ "name"         : "[COLOR crimson]SkyNet[/COLOR]",
  "plugin"       : "plugin.video.skynet",
  "priority"     : 500,
  "id"           : "direct.skynet",
