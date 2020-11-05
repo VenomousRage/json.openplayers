@@ -1,5 +1,5 @@
 {
- "name"         : "[COLOR azure]Fen[/COLOR]",
+ "name"         : "[COLOR blue]Fen[/COLOR]",
  "plugin"       : "plugin.video.fen",
  "priority"     : 500,
  "id"           : "direct.fen",
