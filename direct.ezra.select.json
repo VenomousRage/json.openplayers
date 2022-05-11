@@ -1,5 +1,5 @@
 {
-    "name": "[COLOR royalblue]Ezra[/COLOR] (Source Select)"
+    "name": "[COLOR royalblue]Ezra[/COLOR] (Source Select)",
     "plugin": "plugin.video.ezra",
     "priority": 500,
     "play_movie": "plugin://plugin.video.ezra/?mode=play_media&media_type=movie&query={name}&year={year}&poster={poster}&title={title}&tmdb_id={id}&autoplay=false",
